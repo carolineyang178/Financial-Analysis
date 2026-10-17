@@ -1,4 +1,8 @@
 year,quarter,period_id,metric,value,method,value_bn
+2023,Q1,2023Q1,capex,6289.0,Q1 YTD,6.289
+2023,Q2,2023Q2,capex,6888.0,YTD-derived,6.888
+2023,Q3,2023Q3,capex,8055.0,YTD-derived,8.055
+2023,Q4,2023Q4,capex,11019.0,YTD-derived,11.019
 2023,Q1,2023Q1,ppe_depreciation,,Q1 YTD,
 2023,Q2,2023Q2,ppe_depreciation,,YTD-derived,
 2023,Q3,2023Q3,ppe_depreciation,,YTD-derived,
@@ -7,30 +11,30 @@ year,quarter,period_id,metric,value,method,value_bn
 2023,Q2,2023Q2,operating_cash_flow,28666.0,YTD-derived,28.666
 2023,Q3,2023Q3,operating_cash_flow,30656.0,YTD-derived,30.656
 2023,Q4,2023Q4,operating_cash_flow,18915.0,YTD-derived,18.915
-2023,Q1,2023Q1,capex,6289.0,Q1 YTD,6.289
-2023,Q2,2023Q2,capex,6888.0,YTD-derived,6.888
-2023,Q3,2023Q3,capex,8055.0,YTD-derived,8.055
-2023,Q4,2023Q4,capex,11019.0,YTD-derived,11.019
-2023,Q1,2023Q1,google_cloud_operating_income,191.0,Reported quarter,0.191
-2023,Q2,2023Q2,google_cloud_operating_income,395.0,Reported quarter,0.395
-2023,Q3,2023Q3,google_cloud_operating_income,266.0,Reported quarter,0.266
-2023,Q4,2023Q4,google_cloud_operating_income,864.0,Reported quarter,0.864
-2023,Q1,2023Q1,revenue,69787.0,Reported quarter,69.787
-2023,Q2,2023Q2,revenue,74604.0,Reported quarter,74.604
-2023,Q3,2023Q3,revenue,76693.0,Reported quarter,76.693
-2023,Q4,2023Q4,revenue,86310.0,Reported quarter,86.31
-2023,Q1,2023Q1,google_cloud_revenue,7454.0,Reported quarter,7.454
-2023,Q2,2023Q2,google_cloud_revenue,8031.0,Reported quarter,8.031
-2023,Q3,2023Q3,google_cloud_revenue,8411.0,Reported quarter,8.411
-2023,Q4,2023Q4,google_cloud_revenue,9192.0,Reported quarter,9.192
-2023,Q1,2023Q1,operating_income,17415.0,Reported quarter,17.415
-2023,Q2,2023Q2,operating_income,21838.0,Reported quarter,21.838
-2023,Q3,2023Q3,operating_income,21343.0,Reported quarter,21.343
-2023,Q4,2023Q4,operating_income,23697.0,Reported quarter,23.697
 2023,Q1,2023Q1,search_other_revenue,40359.0,Reported quarter,40.359
 2023,Q2,2023Q2,search_other_revenue,42628.0,Reported quarter,42.628
 2023,Q3,2023Q3,search_other_revenue,44026.0,Reported quarter,44.026
 2023,Q4,2023Q4,search_other_revenue,48020.0,Reported quarter,48.02
+2023,Q1,2023Q1,google_cloud_revenue,7454.0,Reported quarter,7.454
+2023,Q2,2023Q2,google_cloud_revenue,8031.0,Reported quarter,8.031
+2023,Q3,2023Q3,google_cloud_revenue,8411.0,Reported quarter,8.411
+2023,Q4,2023Q4,google_cloud_revenue,9192.0,Reported quarter,9.192
+2023,Q1,2023Q1,revenue,69787.0,Reported quarter,69.787
+2023,Q2,2023Q2,revenue,74604.0,Reported quarter,74.604
+2023,Q3,2023Q3,revenue,76693.0,Reported quarter,76.693
+2023,Q4,2023Q4,revenue,86310.0,Reported quarter,86.31
+2023,Q1,2023Q1,google_cloud_operating_income,191.0,Reported quarter,0.191
+2023,Q2,2023Q2,google_cloud_operating_income,395.0,Reported quarter,0.395
+2023,Q3,2023Q3,google_cloud_operating_income,266.0,Reported quarter,0.266
+2023,Q4,2023Q4,google_cloud_operating_income,864.0,Reported quarter,0.864
+2023,Q1,2023Q1,operating_income,17415.0,Reported quarter,17.415
+2023,Q2,2023Q2,operating_income,21838.0,Reported quarter,21.838
+2023,Q3,2023Q3,operating_income,21343.0,Reported quarter,21.343
+2023,Q4,2023Q4,operating_income,23697.0,Reported quarter,23.697
+2024,Q1,2024Q1,capex,12014.0,Q1 YTD,12.014
+2024,Q2,2024Q2,capex,13299.0,YTD-derived,13.299
+2024,Q3,2024Q3,capex,13955.0,YTD-derived,13.955
+2024,Q4,2024Q4,capex,13232.0,YTD-derived,13.232
 2024,Q1,2024Q1,ppe_depreciation,3384.0,Q1 YTD,3.384
 2024,Q2,2024Q2,ppe_depreciation,3617.0,YTD-derived,3.617
 2024,Q3,2024Q3,ppe_depreciation,3824.0,YTD-derived,3.824
@@ -39,30 +43,30 @@ year,quarter,period_id,metric,value,method,value_bn
 2024,Q2,2024Q2,operating_cash_flow,33315.0,YTD-derived,33.315
 2024,Q3,2024Q3,operating_cash_flow,37158.0,YTD-derived,37.158
 2024,Q4,2024Q4,operating_cash_flow,25968.0,YTD-derived,25.968
-2024,Q1,2024Q1,capex,12014.0,Q1 YTD,12.014
-2024,Q2,2024Q2,capex,13299.0,YTD-derived,13.299
-2024,Q3,2024Q3,capex,13955.0,YTD-derived,13.955
-2024,Q4,2024Q4,capex,13232.0,YTD-derived,13.232
-2024,Q1,2024Q1,google_cloud_operating_income,900.0,Reported quarter,0.9
-2024,Q2,2024Q2,google_cloud_operating_income,1172.0,Reported quarter,1.172
-2024,Q3,2024Q3,google_cloud_operating_income,1957.0,Reported quarter,1.957
-2024,Q4,2024Q4,google_cloud_operating_income,2002.0,Reported quarter,2.002
-2024,Q1,2024Q1,revenue,80539.0,Reported quarter,80.539
-2024,Q2,2024Q2,revenue,84742.0,Reported quarter,84.742
-2024,Q3,2024Q3,revenue,88268.0,Reported quarter,88.268
-2024,Q4,2024Q4,revenue,96467.0,Reported quarter,96.467
-2024,Q1,2024Q1,google_cloud_revenue,9574.0,Reported quarter,9.574
-2024,Q2,2024Q2,google_cloud_revenue,10347.0,Reported quarter,10.347
-2024,Q3,2024Q3,google_cloud_revenue,11353.0,Reported quarter,11.353
-2024,Q4,2024Q4,google_cloud_revenue,12020.0,Reported quarter,12.02
-2024,Q1,2024Q1,operating_income,25472.0,Reported quarter,25.472
-2024,Q2,2024Q2,operating_income,27425.0,Reported quarter,27.425
-2024,Q3,2024Q3,operating_income,28521.0,Reported quarter,28.521
-2024,Q4,2024Q4,operating_income,30972.0,Reported quarter,30.972
 2024,Q1,2024Q1,search_other_revenue,46142.0,Reported quarter,46.142
 2024,Q2,2024Q2,search_other_revenue,48509.0,Reported quarter,48.509
 2024,Q3,2024Q3,search_other_revenue,50230.0,Reported quarter,50.23
 2024,Q4,2024Q4,search_other_revenue,55000.0,Reported quarter,55.0
+2024,Q1,2024Q1,google_cloud_revenue,9574.0,Reported quarter,9.574
+2024,Q2,2024Q2,google_cloud_revenue,10347.0,Reported quarter,10.347
+2024,Q3,2024Q3,google_cloud_revenue,11353.0,Reported quarter,11.353
+2024,Q4,2024Q4,google_cloud_revenue,12020.0,Reported quarter,12.02
+2024,Q1,2024Q1,revenue,80539.0,Reported quarter,80.539
+2024,Q2,2024Q2,revenue,84742.0,Reported quarter,84.742
+2024,Q3,2024Q3,revenue,88268.0,Reported quarter,88.268
+2024,Q4,2024Q4,revenue,96467.0,Reported quarter,96.467
+2024,Q1,2024Q1,google_cloud_operating_income,900.0,Reported quarter,0.9
+2024,Q2,2024Q2,google_cloud_operating_income,1172.0,Reported quarter,1.172
+2024,Q3,2024Q3,google_cloud_operating_income,1957.0,Reported quarter,1.957
+2024,Q4,2024Q4,google_cloud_operating_income,2002.0,Reported quarter,2.002
+2024,Q1,2024Q1,operating_income,25472.0,Reported quarter,25.472
+2024,Q2,2024Q2,operating_income,27425.0,Reported quarter,27.425
+2024,Q3,2024Q3,operating_income,28521.0,Reported quarter,28.521
+2024,Q4,2024Q4,operating_income,30972.0,Reported quarter,30.972
+2025,Q1,2025Q1,capex,17197.0,Q1 YTD,17.197
+2025,Q2,2025Q2,capex,22446.0,YTD-derived,22.446
+2025,Q3,2025Q3,capex,23953.0,YTD-derived,23.953
+2025,Q4,2025Q4,capex,27851.0,YTD-derived,27.851
 2025,Q1,2025Q1,ppe_depreciation,4487.0,Q1 YTD,4.487
 2025,Q2,2025Q2,ppe_depreciation,4998.0,YTD-derived,4.998
 2025,Q3,2025Q3,ppe_depreciation,5611.0,YTD-derived,5.611
@@ -71,43 +75,39 @@ year,quarter,period_id,metric,value,method,value_bn
 2025,Q2,2025Q2,operating_cash_flow,27747.0,YTD-derived,27.747
 2025,Q3,2025Q3,operating_cash_flow,36150.0,YTD-derived,36.15
 2025,Q4,2025Q4,operating_cash_flow,100047.0,YTD-derived,100.047
-2025,Q1,2025Q1,capex,17197.0,Q1 YTD,17.197
-2025,Q2,2025Q2,capex,22446.0,YTD-derived,22.446
-2025,Q3,2025Q3,capex,23953.0,YTD-derived,23.953
-2025,Q4,2025Q4,capex,27851.0,YTD-derived,27.851
-2025,Q1,2025Q1,google_cloud_operating_income,2177.0,Reported quarter,2.177
-2025,Q2,2025Q2,google_cloud_operating_income,2826.0,Reported quarter,2.826
-2025,Q3,2025Q3,google_cloud_operating_income,3594.0,Reported quarter,3.594
-2025,Q4,2025Q4,google_cloud_operating_income,5313.0,Reported quarter,5.313
-2025,Q1,2025Q1,revenue,90234.0,Reported quarter,90.234
-2025,Q2,2025Q2,revenue,96428.0,Reported quarter,96.428
-2025,Q3,2025Q3,revenue,102346.0,Reported quarter,102.346
-2025,Q4,2025Q4,revenue,113829.0,Reported quarter,113.829
-2025,Q1,2025Q1,google_cloud_revenue,12260.0,Reported quarter,12.26
-2025,Q2,2025Q2,google_cloud_revenue,13624.0,Reported quarter,13.624
-2025,Q3,2025Q3,google_cloud_revenue,15157.0,Reported quarter,15.157
-2025,Q4,2025Q4,google_cloud_revenue,17664.0,Reported quarter,17.664
-2025,Q1,2025Q1,operating_income,30606.0,Reported quarter,30.606
-2025,Q2,2025Q2,operating_income,31271.0,Reported quarter,31.271
-2025,Q3,2025Q3,operating_income,31228.0,Reported quarter,31.228
-2025,Q4,2025Q4,operating_income,35934.0,Reported quarter,35.934
 2025,Q1,2025Q1,search_other_revenue,50702.0,Reported quarter,50.702
 2025,Q2,2025Q2,search_other_revenue,2826.0,Reported quarter,2.826
 2025,Q3,2025Q3,search_other_revenue,56567.0,Reported quarter,56.567
 2025,Q4,2025Q4,search_other_revenue,63073.0,Reported quarter,63.073
+2025,Q1,2025Q1,google_cloud_revenue,12260.0,Reported quarter,12.26
+2025,Q2,2025Q2,google_cloud_revenue,13624.0,Reported quarter,13.624
+2025,Q3,2025Q3,google_cloud_revenue,15157.0,Reported quarter,15.157
+2025,Q4,2025Q4,google_cloud_revenue,17664.0,Reported quarter,17.664
+2025,Q1,2025Q1,revenue,90234.0,Reported quarter,90.234
+2025,Q2,2025Q2,revenue,96428.0,Reported quarter,96.428
+2025,Q3,2025Q3,revenue,102346.0,Reported quarter,102.346
+2025,Q4,2025Q4,revenue,113829.0,Reported quarter,113.829
+2025,Q1,2025Q1,google_cloud_operating_income,2177.0,Reported quarter,2.177
+2025,Q2,2025Q2,google_cloud_operating_income,2826.0,Reported quarter,2.826
+2025,Q3,2025Q3,google_cloud_operating_income,3594.0,Reported quarter,3.594
+2025,Q4,2025Q4,google_cloud_operating_income,5313.0,Reported quarter,5.313
+2025,Q1,2025Q1,operating_income,30606.0,Reported quarter,30.606
+2025,Q2,2025Q2,operating_income,31271.0,Reported quarter,31.271
+2025,Q3,2025Q3,operating_income,31228.0,Reported quarter,31.228
+2025,Q4,2025Q4,operating_income,35934.0,Reported quarter,35.934
+2026,Q1,2026Q1,capex,35674.0,Q1 YTD,35.674
+2026,Q2,2026Q2,capex,80598.0,YTD-derived,80.598
 2026,Q1,2026Q1,ppe_depreciation,6482.0,Q1 YTD,6.482
 2026,Q2,2026Q2,ppe_depreciation,13586.0,YTD-derived,13.586
 2026,Q1,2026Q1,operating_cash_flow,45790.0,Q1 YTD,45.79
 2026,Q2,2026Q2,operating_cash_flow,84859.0,YTD-derived,84.859
-2026,Q1,2026Q1,capex,35674.0,Q1 YTD,35.674
-2026,Q2,2026Q2,capex,80598.0,YTD-derived,80.598
-2026,Q1,2026Q1,google_cloud_operating_income,6598.0,Reported quarter,6.598
-2026,Q2,2026Q2,google_cloud_operating_income,8814.0,Reported quarter,8.814
-2026,Q1,2026Q1,revenue,109896.0,Reported quarter,109.896
-2026,Q2,2026Q2,revenue,119796.0,Reported quarter,119.796
-2026,Q1,2026Q1,google_cloud_revenue,20028.0,Reported quarter,20.028
-2026,Q2,2026Q2,google_cloud_revenue,24768.0,Reported quarter,24.768
-2026,Q1,2026Q1,operating_income,39696.0,Reported quarter,39.696
-2026,Q2,2026Q2,operating_income,40770.0,Reported quarter,40.77
 2026,Q1,2026Q1,search_other_revenue,60399.0,Reported quarter,60.399
 2026,Q2,2026Q2,search_other_revenue,63271.0,Reported quarter,63.271
+2026,Q1,2026Q1,google_cloud_revenue,20028.0,Reported quarter,20.028
+2026,Q2,2026Q2,google_cloud_revenue,24768.0,Reported quarter,24.768
+2026,Q1,2026Q1,revenue,109896.0,Reported quarter,109.896
+2026,Q2,2026Q2,revenue,119796.0,Reported quarter,119.796
+2026,Q1,2026Q1,google_cloud_operating_income,6598.0,Reported quarter,6.598
+2026,Q2,2026Q2,google_cloud_operating_income,8814.0,Reported quarter,8.814
+2026,Q1,2026Q1,operating_income,39696.0,Reported quarter,39.696
+2026,Q2,2026Q2,operating_income,40770.0,Reported quarter,40.77

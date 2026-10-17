@@ -2,11 +2,11 @@ check,expected_usd_millions,actual_usd_millions,difference_usd_millions,status,n
 2023 annual tie-out: capex,32251,32251.0,0.0,PASS,Annual filing vs sum of standalone quarters
 2024 annual tie-out: capex,52500,52500.0,0.0,PASS,Annual filing vs sum of standalone quarters
 2025 annual tie-out: capex,91447,91447.0,0.0,PASS,Annual filing vs sum of standalone quarters
-2024 annual tie-out: ppe_depreciation,15311,15311.0,0.0,PASS,Annual filing vs sum of standalone quarters
-2025 annual tie-out: ppe_depreciation,21136,21136.0,0.0,PASS,Annual filing vs sum of standalone quarters
 2023 annual tie-out: operating_cash_flow,101746,101746.0,0.0,PASS,Annual filing vs sum of standalone quarters
 2024 annual tie-out: operating_cash_flow,125300,125300.0,0.0,PASS,Annual filing vs sum of standalone quarters
 2025 annual tie-out: operating_cash_flow,200094,200094.0,0.0,PASS,Annual filing vs sum of standalone quarters
+2024 annual tie-out: ppe_depreciation,15311,15311.0,0.0,PASS,Annual filing vs sum of standalone quarters
+2025 annual tie-out: ppe_depreciation,21136,21136.0,0.0,PASS,Annual filing vs sum of standalone quarters
 2023 annual arithmetic: operating_cash_flow,101746,,,INCOMPLETE,Arithmetic completeness check; not independent validation
 2023 annual arithmetic: capex,32251,,,INCOMPLETE,Arithmetic completeness check; not independent validation
 2024 annual arithmetic: operating_cash_flow,125300,,,INCOMPLETE,Arithmetic completeness check; not independent validation
