@@ -1,0 +1,44 @@
+{
+  "currency_units": "USD billions except per-share values",
+  "market_snapshot_date": "2026-10-15",
+  "market_price_usd": 347.0,
+  "diluted_shares_billions": 12.2,
+  "net_cash_usd_billions": 80.0,
+  "tax_rate": 0.16,
+  "base_year": 2026,
+  "base_year_revenue_usd_billions": 446.0,
+  "base_year_operating_margin": 0.331,
+  "base_year_da_usd_billions": 36.3,
+  "base_year_capex_usd_billions": 188.0,
+  "forecast_years": [2027, 2028, 2029, 2030],
+  "scenarios": {
+    "Bear": {
+      "revenue_growth": [0.08, 0.07, 0.06, 0.05],
+      "operating_margin": [0.315, 0.31, 0.31, 0.315],
+      "da_pct_revenue": [0.085, 0.09, 0.095, 0.095],
+      "capex_pct_revenue": [0.43, 0.4, 0.36, 0.32],
+      "wacc": 0.095,
+      "terminal_growth": 0.02
+    },
+    "Base": {
+      "revenue_growth": [0.12, 0.11, 0.1, 0.09],
+      "operating_margin": [0.335, 0.345, 0.355, 0.365],
+      "da_pct_revenue": [0.085, 0.09, 0.095, 0.1],
+      "capex_pct_revenue": [0.4, 0.35, 0.3, 0.26],
+      "wacc": 0.085,
+      "terminal_growth": 0.025
+    },
+    "Bull": {
+      "revenue_growth": [0.15, 0.14, 0.13, 0.11],
+      "operating_margin": [0.345, 0.365, 0.385, 0.4],
+      "da_pct_revenue": [0.085, 0.09, 0.095, 0.1],
+      "capex_pct_revenue": [0.38, 0.32, 0.27, 0.23],
+      "wacc": 0.08,
+      "terminal_growth": 0.03
+    }
+  },
+  "sensitivity": {
+    "wacc": [0.075, 0.08, 0.085, 0.09, 0.095],
+    "terminal_growth": [0.015, 0.02, 0.025, 0.03, 0.035]
+  }
+}

@@ -1,0 +1,4 @@
+scenario,target_market_cap_usd_bn,target_equity_value_usd_bn,wacc,explicit_period_pv_fcf_usd_bn,fcf_2030_usd_bn,implied_terminal_fcf_growth,note
+Bear,4233.4,4233.4,0.095,-42.801011009210015,22.716046140480017,0.09089227041510628,Mathematical solution.
+Base,4233.4,4233.4,0.085,113.39530938800031,97.46058493247997,0.06643636009690465,Mathematical solution.
+Bull,4233.4,4233.4,0.08,224.8131565400133,151.07972757479996,0.05031118898179714,Mathematical solution.
